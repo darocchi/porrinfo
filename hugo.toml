@@ -15,8 +15,8 @@ theme = 'hugo-whisper-theme'
   # enable_anchor_link = true
 
   [params.logo]
-    mobile = "/img/porro.png"
-    standard  = "/img/porro.png"
+    mobile = "img/porro.png"
+    standard  = "img/porro.png"
 
   [params.footer]
     copyright_text = '2026 - Team A.S.T.'
