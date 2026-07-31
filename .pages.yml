@@ -11,3 +11,8 @@ content:
         type: string
       - name: body
         type: rich-text
+  - name: site
+    label: Site settings (Hugo)
+    type: file
+    path: hugo.toml
+    
