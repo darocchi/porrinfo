@@ -1,9 +1,8 @@
 media: media
 content:
   - name: pages
-    label: Pages
+    label: Contenuti
     type: collection
-    path: docs
     fields:
       - name: title
         type: string
