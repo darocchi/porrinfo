@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'it'
+title = 'Porri.info'
+theme = 'hugo-whisper-theme'
+
+[params]
+  # mainSections = ['docs', 'dashboard', 'tutorials', 'archive']
+  google_analytics_id=""
+  # homepage_button_link = '/dashboard'
+  homepage_button_text = 'Porriamo!'
+  homepage_intro = 'La destinazione ideale per le tue porrose necessità.'
+  homepage_image = ''
+
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.logo]
+    mobile = "/img/porro.png"
+    standard  = "/img/porro.png"
+
+  [params.footer]
+    copyright_text = '2026 - Team A.S.T.'
+
+  [markup]
+    [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe = true
