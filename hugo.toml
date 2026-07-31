@@ -6,7 +6,7 @@ theme = 'hugo-whisper-theme'
 [params]
   # mainSections = ['docs', 'dashboard', 'tutorials', 'archive']
   google_analytics_id=""
-  # homepage_button_link = '/dashboard'
+  homepage_button_link = '/'
   homepage_button_text = 'Porriamo!'
   homepage_intro = 'La destinazione ideale per le tue porrose necessità.'
   homepage_image = ''
