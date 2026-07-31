@@ -3,6 +3,7 @@ content:
   - name: pages
     label: Contenuti
     type: collection
+    path: content
     fields:
       - name: title
         type: string
