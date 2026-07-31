@@ -3,11 +3,11 @@ content:
   - name: pages
     label: Contenuti
     type: collection
-    path: content
+    path: content/porri
     fields:
-      - name: title
+      - name: Title
         type: string
-      - name: subtitle
+      - name: Subtitle
         type: string
-      - name: body
+      - name: Body
         type: rich-text
