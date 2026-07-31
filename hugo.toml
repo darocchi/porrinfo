@@ -4,7 +4,7 @@ title = 'Porri.info'
 theme = 'hugo-whisper-theme'
 
 [params]
-  mainSections = ['porri']
+  mainSections = ['porri', 'jap']
   google_analytics_id=""
   homepage_button_link = '/porri'
   homepage_button_text = 'Porriamo!'
