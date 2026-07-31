@@ -11,6 +11,17 @@ content:
         type: string
       - name: body
         type: rich-text
+  - name: jap
+    label: Giappone inondato
+    type: collection
+    path: content/jap
+    fields:
+      - name: title
+        type: string
+      - name: subtitle
+        type: string
+      - name: body
+        type: rich-text
   - name: site
     label: Site settings (Hugo)
     type: file
